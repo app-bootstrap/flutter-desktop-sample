@@ -5,7 +5,7 @@
 ## Start
 
 ```bash
-
+flutter run -d macos
 ```
 
 ## Links
